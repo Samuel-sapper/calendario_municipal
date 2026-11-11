@@ -1,0 +1,19 @@
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    width: max-content;
+    height: max-content;
+    color: rgb(87, 87, 87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    width: max-content;
+    height: max-content;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
